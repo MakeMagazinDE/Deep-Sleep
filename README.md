@@ -9,4 +9,4 @@ Maker Media GmbH
 
 Weiteres Material zum Artikel
 
-![Picture](https://github.com/MakeMagazinDE/Deep-Sleep/blob/main/master.jpg)
+![Picture](https://github.com/MakeMagazinDE/Deep-Sleep/blob/main/esp32-wakeup-ausschnitt.png)
